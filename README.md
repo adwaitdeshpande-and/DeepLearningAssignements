@@ -1,5 +1,5 @@
-# Deep Learning Lab Assignements
-Name: Adwait Nitin Deshpande
-Roll No: 43514
-Class: BE-AIML
+# Deep Learning Lab Assignements <br>
+Name: Adwait Nitin Deshpande <br>
+Roll No: 43514 <br>
+Class: BE-AIML <br>
 Subject: Deep Learning in AI
